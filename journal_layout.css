@@ -1,0 +1,22 @@
+body{
+	font-family: 'open sans',arial,sans-serif;;
+	color: #00CED1;
+	
+}
+#container {
+	border: 5px green solid;
+	
+}
+h2 strong{
+	border: 5px purple solid;
+}
+.entry{
+	border: 5px blue solid;
+	
+}
+#header {
+	border: 5px red solid;
+}
+#header h2 {
+	border: 5px orange solid;
+}
